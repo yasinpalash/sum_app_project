@@ -1,19 +1,13 @@
-# bim
+# Calculator App
 
-A new Flutter project.
+A simple calculator app built with Flutter that allows users to perform basic arithmetic operations.
 
-## Getting Started
+## Features
+- Addition, subtraction, multiplication, and division operations
+- Responsive design for various screen sizes
+- User-friendly interface
+## Screenshots
+![image](https://github.com/yasinpalash/sum_app_project/assets/145049322/6a4386e7-f457-4e0c-8230-d3d9c0869350)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-![](C:\All flutter Project\sum_app_project\enabledBorder OutlineInputBorder( borderSide BorderSide( width 1.0,  Set the border width ),.png)
-
-![enabledBorder OutlineInputBorder( borderSide BorderSide( width 1 0,  Set the border width ),](https://github.com/yasinpalash/sum_app_project/assets/145049322/5913f205-f1e6-4877-9ff0-2021b311c9d2)
