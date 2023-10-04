@@ -15,3 +15,5 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 ![](C:\All flutter Project\sum_app_project\enabledBorder OutlineInputBorder( borderSide BorderSide( width 1.0,  Set the border width ),.png)
+
+![enabledBorder OutlineInputBorder( borderSide BorderSide( width 1 0,  Set the border width ),](https://github.com/yasinpalash/sum_app_project/assets/145049322/5913f205-f1e6-4877-9ff0-2021b311c9d2)
